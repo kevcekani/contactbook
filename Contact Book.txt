@@ -1,0 +1,1 @@
+Projekti Contact Book i referohet nje aplikacioni, ku sipas niveleve te manaxhimit, perdoruesi mund te kryeje operacione te caktuara CRUD mbi te dhenat e punonjesve te nje kompanie te supozuar. Keto te dhenat, gjithashtu mund te eksportohen.
